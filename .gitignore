@@ -1,0 +1,12 @@
+data/
+__pycache__/
+*.pyc
+.env
+dist/
+build/
+.venv/
+CLAUDE.md
+.claude/
+
+.DS_Store
+.misc/
